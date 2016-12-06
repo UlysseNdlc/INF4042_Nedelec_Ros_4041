@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OH CLIQUE</string>
+    <string name="Hello_world">Hello world !</string>
+    <string name="action_settings">Settings</string>
+    <!--   <string name="button_text">Change date</string> -->
+    <string name="button_second_text">Change activity</string>
+    <string name="msg">Entrez uen date</string>
+    <string name="title_activity_seconde">List of Biers</string>
+    <string name="dl">Downloading&#8230;</string>
+    <string name="endDL">File downloaded</string>
+    <string name="date">Date</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_cheat">Game Cheat</string>
+    <string name="menu_notification">Get notification</string>
+    <string name="menu_toast">Get toast</string>
+    <string name="toast_example">Take my toast</string>
+    <string name="notification_example">Take my notification</string>
+    <string name="rules">Rules</string>
+    <string name="play">Cliquez</string>
+    <string name="start">Start</string>
+    <string name="change_date">Change the Record date</string>
+    <string name="end_game">End</string>
+    <string name="game_rule">Click <b>Start</b> to start the game. You have to click on the button as much as possible before the counter goes down. You need to get at least <b>50 points</b> to win this game. If you succeed, you will have a surprise !</string>
+    <string name="dialog_box">I get it !</string>
+    <string name="ready">Es tu prêt ?!</string>
+    <string name="restart">Restart</string>
+    <string name="win">You won !</string>
+    <string name="win_game">You won the game. You can now have your surprise !</string>
+    <string name="lost">You lost !</string>
+    <string name="lost_game">You lost the game. You can restart by clicking on <b>Restart</b>.<i>You can also cheat to get your surprise</i>.</string>
+    <string name="score">Score : 0</string>
+    <string name="winMessage">Today is a memorable day, you just won our game . Let\'s never forget the date of this accomplishments !</string>
+
+</resources>
